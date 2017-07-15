@@ -1,0 +1,43 @@
+body{
+	font-family:'helvetica','arial', sans-serif;
+	width:300px
+	
+}
+.container{
+	border:1px solid #d3d3d3;
+	border-radius:5px;
+	padding:10px;
+	margin:0px;
+	box-shadow: 5px 5px 10px #888888;
+}
+.animal{
+	border-spacing:50px;
+}
+.animal h3{
+	padding:0px 0px 0px 5px;
+}
+.animal-image{
+	border:1px solid #d3d3d3;
+	border-radius:5px;
+	padding:0px 5px 0px 5px
+	
+}
+.animal-facts{
+	text-align:left;
+	border:1px solid #d3d3d3;
+	border-radius:5px;
+	padding:0px 5px 0px 5px;
+	margin:0px;
+	
+}
+.animal-facts ul{
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+}
+.animal-facts span{
+	font-weight:bold;
+}
+.animal-facts p{
+	font-style:italic;
+}
